@@ -9,6 +9,7 @@ st.set_page_config(page_title="tabelas",
                    initial_sidebar_state="expanded", layout="wide"
                    )
 st.title('Contagem de Segmentos de Empresas')
+st.write('**2017-07-29    -    2023-09-20**')
 
 hidden = """
             <style>
