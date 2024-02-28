@@ -13,8 +13,8 @@ st.write('**2017-07-29    -    2023-09-20**')
 
 hidden = """
             <style>
-            #MainMenu {visibility: hidden !important;}
             .reportview-container .main footer {visibility: hidden;}
+            #MainMenu {visibility: hidden !important;}
             footer {visibility: hidden !important;}
             footer {display: none !important;}
             header {visibility: hidden !important;}
